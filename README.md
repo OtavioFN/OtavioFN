@@ -54,3 +54,5 @@ Since technical high school, I've been dedicated to systems development, taking 
 - 📚 I'm into personal development and tech books
 - 🧠 I like to understand how things work behind the scenes (especially in C!)
 - 🤝 I like helping others in general, both with tech and with their studies
+
+📄 Prefer to read in Portuguese? [Clique aqui para acessar a versão em português](./README.pt.md)
